@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mhdfaaiz/Arakkalflix.git/static/css/main.72307e8f.css",
+    "main.js": "/mhdfaaiz/Arakkalflix.git/static/js/main.711c14ba.js",
+    "static/media/logo.png": "/mhdfaaiz/Arakkalflix.git/static/media/logo.ffb011e785b3131b6f57.png",
+    "index.html": "/mhdfaaiz/Arakkalflix.git/index.html",
+    "main.72307e8f.css.map": "/mhdfaaiz/Arakkalflix.git/static/css/main.72307e8f.css.map",
+    "main.711c14ba.js.map": "/mhdfaaiz/Arakkalflix.git/static/js/main.711c14ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72307e8f.css",
+    "static/js/main.711c14ba.js"
+  ]
+}
