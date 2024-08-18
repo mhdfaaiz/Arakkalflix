@@ -11,7 +11,7 @@ function RowPost(props) {
             console.log(response.data)
             setMoviess(response.data.results)
         })
-    }, [])
+    }, [props.url])
     const opts = {
         height: '390',
         width: '100%',
